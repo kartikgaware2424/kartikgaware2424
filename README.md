@@ -1,3 +1,4 @@
+![Animated Introduction](animated.svg)
 # 💫 About Me:
 🎓 Education: B.Tech in Computer Science & Engineering (Cyber Security & Forensics)<br>🛡️ Cybersecurity Enthusiast: Focused on Cyber Awareness & Protection<br>💻 MERN Stack Developer: Proficient in MongoDB, Express.js, React.js, and Node.js<br>⚡ Problem Solver: Active on global coding platforms<br>🌱 Currently Learning: Advanced Cybersecurity Concepts & Blockchain Security<br>🤝 Team Player: Adaptive, responsible, and thrive in collaborative environments<br>🎯 Interest Areas: Ethical Hacking, Digital Forensics, Web Security, and AI in Cybersecurity<br>🎥 Hobbies: Watching anime & exploring tech trends
 
