@@ -233,45 +233,7 @@ $ git push origin main
 
 ---
 
-# 📊 GITHUB ACTIVITY
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=kartikgaware2424&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikgaware2424&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-# 🐍 CONTRIBUTION ANIMATION
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/kartikgaware2424/kartikgaware2424/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-# 📈 CONTRIBUTION GRAPH
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikgaware2424&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-# 🏆 GITHUB TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kartikgaware2424&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=7" />
-
-</div>
-
----
 
 # 💻 TERMINAL
 
