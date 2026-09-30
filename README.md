@@ -1,52 +1,395 @@
-# 💫 About Me:
+# 👨‍💻 KARTIK GAWARE
 
-🎓 **Education:** B.Tech in Computer Science & Engineering (Cyber Security & Forensics)<br>
-💻 **Full Stack Developer:** Experienced in building full-stack web applications using **C#, .NET, React.js, Java, and Spring Boot**<br>
-🚀 **Professional Experience:** Working as a **Full Stack Developer at Avalpha Technologies**, developing scalable web applications using **.NET, C#, React.js, REST APIs, and PostgreSQL**<br>
-☁️ **Cloud & Backend:** Hands-on experience with **Microsoft Azure, ASP.NET Core, REST APIs, JWT, and database integration**<br>
-🛡️ **Cybersecurity Enthusiast:** Interested in Cyber Awareness, Web Security, Ethical Hacking, and Digital Forensics<br>
-⚡ **Problem Solver:** Passionate about solving technical challenges and building efficient software solutions<br>
-🌱 **Currently Learning:** Advanced Full Stack Development, Cloud Technologies, Agentic AI & Cybersecurity<br>
-🤝 **Team Player:** Adaptive, responsible, and comfortable working in collaborative development environments<br>
-🎯 **Interest Areas:** Full Stack Development, .NET, Java, Cybersecurity, AI, Cloud Computing, and Web Security<br>
-🎥 **Hobbies:** Watching anime & exploring new technology trends
+<div align="center">
 
-## 🌐 Socials:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;C%23+%7C+.NET+%7C+React+%7C+Java;Spring+Boot+%7C+PostgreSQL+%7C+Azure;Cybersecurity+Enthusiast;Agentic+AI+Explorer;Building+%E2%80%A2+Learning+%E2%80%A2+Breaking+Things+%E2%80%A2+Fixing+Them" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/kartik-gaware-5304272aa/)
+<br>
 
-# 💻 Tech Stack:
+<img src="https://komarev.com/ghpvc/?username=kartikgaware2424&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge" />
 
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge\&logo=csharp\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-%23512BD4.svg?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge\&logo=springboot\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge\&logo=angular\&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-%23005C84.svg?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=JSON%20web%20tokens)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-%230078D4.svg?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge\&logo=Apache%20Maven\&logoColor=white)
+<img src="https://img.shields.io/github/followers/kartikgaware2424?label=FOLLOWERS&style=for-the-badge&color=111827" />
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=kartikgaware2424\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kartikgaware2424\&theme=dark\&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikgaware2424\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=kartikgaware2424\&icon=0\&color=0)](https://visitcount.itsvg.in)
+<div align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║        ██████╗ ███████╗██╗   ██╗███████╗██╗      ██╗        ║
+║        ██╔══██╗██╔════╝██║   ██║██╔════╝██║      ██║        ║
+║        ██████╔╝█████╗  ██║   ██║█████╗  ██║      ██║        ║
+║        ██╔══██╗██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║      ██║        ║
+║        ██║  ██║███████╗ ╚████╔╝ ███████╗███████╗ ███████╗   ║
+║        ╚═╝  ╚═╝╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚══════╝   ║
+║                                                              ║
+║              FULL STACK DEVELOPER // 2026                    ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+## ⚡ `whoami`
+
+```console
+kartik@dev-machine:~$ whoami
+
+> Full Stack Developer
+> .NET + React + Java + Spring Boot
+> Cloud & Backend Engineer
+> Cybersecurity Enthusiast
+> Agentic AI Explorer
+
+kartik@dev-machine:~$ current_status
+
+[████████████████████████████████████████] ONLINE
+
+kartik@dev-machine:~$ echo $MISSION
+
+"Build scalable systems. Learn relentlessly. Ship better software."
+```
+
+---
+
+## 🧠 About Me
+
+🎓 **B.Tech Computer Science & Engineering — Cyber Security & Forensics**
+
+💻 **Full Stack Developer** working with:
+
+* C# / .NET / ASP.NET Core
+* React.js / Angular
+* Java / Spring Boot
+* PostgreSQL / MySQL / MongoDB
+* REST APIs / JWT / Microservices
+
+🚀 Currently working as a **Full Stack Developer at Avalpha Technologies**, building scalable web applications and backend services.
+
+☁️ Working with **Microsoft Azure**, APIs, authentication, databases and cloud deployment.
+
+🛡️ Interested in **Cybersecurity, Web Security, Ethical Hacking and Digital Forensics**.
+
+🤖 Exploring **Agentic AI, AI-powered applications and modern developer tooling**.
+
+🎯 My developer philosophy:
+
+> **Learn → Build → Break → Debug → Improve → Repeat**
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/kartik-gaware-5304272aa/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/kartikgaware2424">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🛠️ TECH ARSENAL
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=cs,java,js,html,css&theme=dark" />
+
+### 🚀 Frameworks
+
+<img src="https://skillicons.dev/icons?i=dotnet,react,angular,spring,nodejs,express&theme=dark" />
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
+
+### ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=azure,aws,docker,git,github&theme=dark" />
+
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,eclipse,maven&theme=dark" />
+
+</div>
+
+---
+
+# 🧬 DEVELOPER STACK
+
+```text
+                    ┌─────────────────────┐
+                    │     USER / CLIENT   │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │    React / Angular  │
+                    └──────────┬──────────┘
+                               │
+                         REST / JSON
+                               │
+                               ▼
+              ┌────────────────────────────────┐
+              │        BACKEND SERVICES        │
+              │                                │
+              │   ASP.NET Core   Spring Boot   │
+              │        C#           Java       │
+              └───────────────┬────────────────┘
+                              │
+                 ┌────────────┼────────────┐
+                 ▼            ▼            ▼
+             PostgreSQL     MySQL       MongoDB
+                 │
+                 ▼
+          ┌────────────────┐
+          │ Microsoft Azure│
+          └────────────────┘
+```
+
+---
+
+# 🔥 WHAT I'M CURRENTLY EXPLORING
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=1800&pause=500&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Exploring+Agentic+AI;Learning+Cloud+Architecture;Improving+System+Design;Exploring+Cybersecurity;Experimenting+With+AI+Agents" />
+
+</div>
+
+```text
+┌───────────────────────────────────────────────────────┐
+│                                                       │
+│  🤖 Agentic AI          ███████████████░░░░  75%      │
+│  ☁️ Cloud Architecture  █████████████░░░░░░  65%      │
+│  🧩 System Design       ████████████░░░░░░░  60%      │
+│  🛡️ Cybersecurity      █████████████░░░░░░  65%      │
+│  🚀 Full Stack          ██████████████████░  90%      │
+│                                                       │
+└───────────────────────────────────────────────────────┘
+```
+
+---
+
+# 🧪 THINGS I LIKE BUILDING
+
+```text
+╭─────────────────────────────────────────────────────────╮
+│                                                         │
+│  🔐 Security Tools                                      │
+│  🤖 AI Applications                                     │
+│  🌐 Full Stack Platforms                                │
+│  ☁️ Cloud Applications                                  │
+│  🔌 REST APIs                                           │
+│  📊 Data-Driven Systems                                 │
+│  🧠 Intelligent Automation                              │
+│                                                         │
+╰─────────────────────────────────────────────────────────╯
+```
+
+---
+
+# 🚀 PROJECT MODE
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=700&color=00FF88&center=true&vCenter=true&width=650&lines=Initializing+Project...;Loading+Dependencies...;Compiling+Code...;Running+Tests...;Debugging...;Deploying...;🚀+SYSTEM+ONLINE" />
+
+</div>
+
+```console
+$ git status
+
+On branch main
+
+Changes ready to ship:
+    + new features
+    + better architecture
+    + cleaner code
+    + fewer bugs
+
+$ npm run build
+
+✓ compiled successfully
+
+$ dotnet test
+
+✓ tests passed
+
+$ git push origin main
+
+🚀 deployed.
+```
+
+---
+
+# 📊 GITHUB ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kartikgaware2424&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikgaware2424&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikgaware2424&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION ANIMATION
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/kartikgaware2424/kartikgaware2424/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+# 📈 CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikgaware2424&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+# 🏆 GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kartikgaware2424&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=7" />
+
+</div>
+
+---
+
+# 💻 TERMINAL
+
+```console
+┌──(kartik㉿developer)-[~/projects]
+└─$ ls
+
+AI-Projects/
+Cybersecurity/
+DotNet/
+Java/
+React/
+SpringBoot/
+Cloud/
+Experiments/
+
+┌──(kartik㉿developer)-[~/projects]
+└─$ ./build-future.sh
+
+[+] Initializing developer mode...
+[+] Loading .NET...
+[+] Loading Java...
+[+] Loading React...
+[+] Connecting Azure...
+[+] Starting AI agents...
+[+] Enabling cybersecurity mode...
+
+████████████████████████████████████ 100%
+
+[SUCCESS] Future deployment initialized 🚀
+```
+
+---
+
+# 🎯 2026 DEVELOPER ROADMAP
+
+```text
+             2026
+              │
+              ▼
+       ┌──────────────┐
+       │ Full Stack    │
+       │ Engineering   │
+       └──────┬───────┘
+              │
+      ┌───────┼────────┐
+      ▼       ▼        ▼
+    Cloud    AI      Security
+      │       │        │
+      └───────┼────────┘
+              ▼
+        Agentic Systems
+              │
+              ▼
+       Scalable Software
+```
+
+---
+
+# ⚡ FUN FACTS
+
+```text
+💻 Code      → Build
+🐛 Bugs      → Debug
+☕ Coffee    → Refuel
+🤖 AI        → Experiment
+🛡️ Security  → Investigate
+🎬 Anime     → Recharge
+🚀 Ideas     → Ship
+```
+
+---
+
+# 🎮 DEVELOPER MODE
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════╗
+║                                                  ║
+║       ██████╗ ███████╗██╗   ██╗███████╗        ║
+║       ██╔══██╗██╔════╝██║   ██║██╔════╝        ║
+║       ██║  ██║█████╗  ██║   ██║█████╗          ║
+║       ██║  ██║██╔══╝  ╚██╗ ██╔╝██╔══╝          ║
+║       ██████╔╝███████╗ ╚████╔╝ ███████╗        ║
+║       ╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝        ║
+║                                                  ║
+║              CODE • BUILD • REPEAT              ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=%3C+Keep+Learning+%2F%3E;%3C+Keep+Building+%2F%3E;%3C+Keep+Exploring+%2F%3E;%3C+Keep+Shipping+%2F%3E" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌌 `while(alive) { code(); learn(); build(); }`
+
+<br>
+
+**Thanks for visiting my profile! 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+</div>
+
+<!-- Proudly created with GPRM -->
