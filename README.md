@@ -235,21 +235,11 @@ $ git push origin main
 
 # 📊 GITHUB ACTIVITY
 
-<div align="center">
+# 📊 GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=kartikgaware2424&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+![](https://github-readme-stats.vercel.app/api?username=kartikgaware2424&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikgaware2424&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikgaware2424&theme=tokyonight&hide_border=true" />
-
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikgaware2424&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
